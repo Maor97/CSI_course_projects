@@ -1,2 +1,3 @@
-This script is do SSH Hardening.
+This is the first project I got in the course.
+The script is do SSH Hardening in linux, it's wrote with bash.
 He asks you some questions about hardening openssh-server and hardens the way you want.
